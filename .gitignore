@@ -1,3 +1,4 @@
 .idea
 /video_app/db.sqlite3
 /video_app/.idea
+env
